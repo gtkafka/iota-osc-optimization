@@ -1,0 +1,8 @@
+@ NAME             %08s "TOUSCHEK"
+@ TYPE             %08s "TOUSCHEK"
+@ TITLE            %08s "no-title"
+@ ORIGIN           %23s "MAD-X 5.02.00 Darwin 64"
+@ DATE             %08s "23/03/15"
+@ TIME             %08s "02.02.06"
+* NAME                                S                TLI               TLIW             TLITOT 
+$ %s                                %le                %le                %le                %le 
